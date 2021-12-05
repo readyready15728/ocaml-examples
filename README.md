@@ -24,4 +24,4 @@ it as a public repository. If you are somehow here looking for a means to
 cheat through said course without understanding the material at all,
 definitely reconsider. If, on the other hand, you are looking for help but
 still want to work through the content mentally, I can't say I haven't been in
-the same position myself.
+the same position myself. I don't blame you.
