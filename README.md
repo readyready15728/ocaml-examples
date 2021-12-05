@@ -19,9 +19,9 @@ content from Cornell University's [CS
 3110](https://cs3110.github.io/textbook). While instructor Michael R. Clarkson
 seems like a nice guy, I have somewhat disregarded his injunction not to post
 solutions anywhere. What I am uploading here is by no means comprehensive for
-said course but I want it to beneficial both for myself and others by leaving
-it as a public repository. If you are somehow here looking for a means to
-cheat through said course without understanding the material at all,
+said course but I want it to be beneficial both for myself and others by
+leaving it as a public repository. If you are somehow here looking for a means
+to cheat through said course without understanding the material at all,
 definitely reconsider. If, on the other hand, you are looking for help but
 still want to work through the content mentally, I can't say I haven't been in
 the same position myself. I don't blame you.
