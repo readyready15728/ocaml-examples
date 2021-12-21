@@ -8,11 +8,10 @@ that was code and a workflow I never want to show anyone because of how
 unbelievably horrible and janky it was and my skills have rusted greatly since
 then.
 
-Here I will be implementing OCaml code using *most* of the best practices (I'm
-perhaps lazy about a few, like unit testing) so I can research how to do
-things effectively only once. I will definitely use dune as a build system,
-attempt to write idiomatic code, and make use of OCaml's current standard
-library and recent code from the third-party ecosystem.
+Here I will be implementing OCaml code trying to use best practices so I can
+research how to do things effectively only once. I will definitely use dune as
+a build system, attempt to write idiomatic code, and make use of OCaml's
+current standard library and recent code from the third-party ecosystem.
 
 So my example code projects largely correspond to some of the content from
 Cornell University's [CS 3110](https://cs3110.github.io/textbook). While
