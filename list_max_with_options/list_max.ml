@@ -9,7 +9,7 @@ let rec list_max = function
       match list_max tail with
         | None -> Some head
         | Some m -> Some (max head m)
-      end;;
+    end;;
 
 let empty_list = [];;
 let not_empty_list = [1; 2; 3; 42; 5];;
